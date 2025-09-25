@@ -1,8 +1,8 @@
-# 🌌 SFS Interstellar
+# 🌌 Celestium Labs
 
 `“Two friends, one sky, infinite horizons.”`
 
-Welcome to SFS Interstellar — founded by two friends driven by curiosity and wonder.  
+Welcome to Celestium Labs — founded by two friends driven by curiosity and wonder.  
 We chase the cosmos, and code towards the same future: astronomy, aerospace, and aeronautics.
 
 ## 🚀 Our Mission
@@ -28,5 +28,5 @@ _(coming soon)_
 
 ## 📜 Attribution
 
-Founded, created and maintained by ML Abhinav & Bandi Revanth.
-© 2025 SFS Interstellar. All rights reserved.
+Founded, created and maintained by ML Abhinav & Bandi Revanth.  
+© 2025 Celestium Labs. All rights reserved.
