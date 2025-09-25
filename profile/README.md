@@ -28,5 +28,5 @@ _(coming soon)_
 
 ## 📜 Attribution
 
-Founded, created and maintained by ML Abhinav & Bandi Revanth.
+Founded, created and maintained by ML Abhinav & Bandi Revanth.  
 © 2025 SFS Interstellar. All rights reserved.
