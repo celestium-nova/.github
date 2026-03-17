@@ -29,4 +29,4 @@ _(coming soon)_
 ## 📜 Attribution
 
 Founded, created and maintained by ML Abhinav & Bandi Revanth.  
-© 2025 Celestium Labs. All rights reserved.
+© 2026 Celestium Labs. All rights reserved.
