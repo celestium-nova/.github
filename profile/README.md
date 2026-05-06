@@ -1,4 +1,4 @@
-# 🌌 Celestium Labs
+# 🌌 Celestium Nova R&D Labs
 
 `“Two friends, one sky, infinite horizons.”`
 
@@ -28,5 +28,5 @@ _(coming soon)_
 
 ## 📜 Attribution
 
-Founded, created and maintained by ML Abhinav & Bandi Revanth.  
+Founded, created and maintained by: ML Abhinav (CEO) & Bandi Revanth (CTO).  
 © 2026 Celestium Labs. All rights reserved.
